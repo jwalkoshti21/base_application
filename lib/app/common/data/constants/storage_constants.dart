@@ -1,4 +1,3 @@
-
 import 'package:base_application/app/common/env/environment.dart';
 import 'package:base_application/app/common/env/types/staging.env.dart';
 

@@ -31,9 +31,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.1
-#  TODO: replace when package is uploaded to pub.dev
-  base_application:
-    path: local_packages/base_application
+  base_application: ^0.1.0
 
 
 # For information on the generic Dart part of this file, see the
